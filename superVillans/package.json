@@ -1,0 +1,14 @@
+{
+  "name": "supervillans",
+  "version": "1.0.0",
+  "description": "The project suggesta names of some deadly super villans hahahahahahahahahah!! lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "sv"
+  },
+  "author": "Shahima the great",
+  "license": "ISC",
+  "dependencies": {
+    "supervillains": "^3.1.0"
+  }
+}

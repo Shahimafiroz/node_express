@@ -1,0 +1,22 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "intro to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahimafiroz/node_express.git"
+  },
+  "author": "Shahima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahimafiroz/node_express/issues"
+  },
+  "homepage": "https://github.com/Shahimafiroz/node_express#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
