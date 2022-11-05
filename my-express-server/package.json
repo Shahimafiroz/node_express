@@ -1,0 +1,14 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "Its a server made using express (my 1st server)",
+  "main": "index.js",
+  "scripts": {
+    "test": "ser"
+  },
+  "author": "Shahima The Great",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
